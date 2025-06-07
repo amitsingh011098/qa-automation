@@ -9,6 +9,17 @@ Search for TestNG → Click Install
 Restart Eclipse when prompted
 
 
+Ensure the following are installed and properly configured:
+
+Java JDK 17+
+
+Apache Maven
+
+Google Chrome
+
+Eclipse IDE or IntelliJ IDEA
+
+
 
 
 /qa_automation/src/test/java/com/automation/testcases/
